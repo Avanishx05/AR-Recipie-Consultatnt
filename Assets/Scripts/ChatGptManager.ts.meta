@@ -1,0 +1,36 @@
+- !<AssetImportMetadata/aa4cc7d4-c94b-4f65-91a3-77b0095a773a>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> f6d718a4-db6b-40c8-9c93-e7835369de6b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> f6d718a4-db6b-40c8-9c93-e7835369de6b
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> bbd8d265-e4cc-46ce-86f5-87838437518a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/f7eb1696-0af6-4883-9ffb-d2e508d56cd9>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/bbd8d265-e4cc-46ce-86f5-87838437518a>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    chatOutput: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - chatOutput: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.Text chatOutput

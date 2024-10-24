@@ -1,14 +1,15 @@
-# AR-Recipie-Consultatnt
+# HackPSU - Cook It Up!
 
-##Requirements to run:
-Len's Studio: https://ar.snap.com/download?lang=en-US
+**Cook It Up!** is a Snapchat Spectacles Lens built in Lens Studio for the Snap AR challenge at HackPSU Fall 2024.
 
-Please install lens studio and open this project to run the application. Compatable with snap spectacles.
+The project won **2nd place** out of 12 teams.
 
+## Demo
 
-Collaborated with:
+<img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-    Matt Dembiczak
-    Avanish Grampurohit
-    Govind Raman
-    Sainath Nair
+## Collaborators
+- Matt Dembiczak
+- Avanish Grampurohit
+- Govind Raman
+- Sainath Nair
